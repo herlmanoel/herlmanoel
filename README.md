@@ -14,7 +14,6 @@ I am from Natal, Rio Grande do Norte. I’m a computer technician and I currentl
     <a href="https://instagram.com/herlmanoel"> 
         <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"> 
     </a> 
-    & nbsp; & nbsp;
     <a href="https://www.linkedin.com/in/herlmanoel-fernandes-barbosa-3561771a7/"> 
         <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true "> 
     </a>
