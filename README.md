@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**herlmanoel/herlmanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name’s Herlmanoel Fernandes
+I am from Natal, Rio Grande do Norte. I’m a computer technician and I currently studying the Bachelor of Information Technology. I love coffe, animals and web development.
 
-Here are some ideas to get you started:
+#### ⚡ Technology  
+- Front-end development using **HTML, Javascript, CSS, ReactJS and Bootstrap**
+- Back-end development using **SQL, Node, MongoDB and Play Framework**
+- Inclined web design with **Figma**
+- Development of hybrid applications using **React Native** (still learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align = 'center'>
+    <a href="https://instagram.com/herlmanoel"> 
+        <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"> 
+    </a> 
+    & nbsp; & nbsp;
+    <a href="https://www.linkedin.com/in/herlmanoel-fernandes-barbosa-3561771a7/"> 
+        <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true "> 
+    </a>
+</p>
