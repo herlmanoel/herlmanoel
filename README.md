@@ -10,7 +10,7 @@ I am from Natal, Rio Grande do Norte. I’m a computer technician and I currentl
 - Development of hybrid applications using **React Native** (still learning)
 
 
-<p align = 'center'>
+<p>
     <a href="https://instagram.com/herlmanoel"> 
         <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"> 
     </a> 
