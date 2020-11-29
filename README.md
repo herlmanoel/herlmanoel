@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### My name’s Herlmanoel Fernandes
-I am from Natal, Rio Grande do Norte. I’m a computer technician and I currently studying the Bachelor of Information Technology. I love coffe, animals and web development.
+
+I am from Natal, Rio Grande do Norte. I’m a computer technician and I currently studying the Bachelor of Information Technology.
 
 #### ⚡ Technology  
 - Front-end development using **HTML, Javascript, CSS, ReactJS and Bootstrap**
