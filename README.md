@@ -19,3 +19,5 @@ I am from Natal, Rio Grande do Norte. I’m a computer technician and I currentl
         <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true "> 
     </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlmanoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
