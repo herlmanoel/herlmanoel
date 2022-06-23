@@ -20,4 +20,11 @@ I am from Natal, Rio Grande do Norte. I’m a computer technician and I currentl
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlmanoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <br /> 
+    <br />
+    <a href="https://github.com/herlmanoel"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herlmanoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlmanoel&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
