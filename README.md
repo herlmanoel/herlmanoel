@@ -1,30 +1,7 @@
-## Hi there 👋
+## Opa! 👋
 
-### My name’s Herlmanoel Fernandes
+Sou Desenvolvedor de Software, de Natal, Rio Grande do Norte. Programando desde 2016, ano em que ingressei no curso Técnico Integrado ao ensino médio em Informática no IFRN e, desde lá, nunca parei. Me vi fascinado por resolver problemas utilizando programação. Neste meio tempo, adquiri experiência em implantação e manutenção de sistemas, utilizando metodologias ágeis para gestão de projetos.
 
-I am from Natal, Rio Grande do Norte. I’m a computer technician and I currently studying the Bachelor of Information Technology.
-
-#### ⚡ Technology  
-- Front-end development using **HTML, Javascript, CSS, ReactJS and Bootstrap**
-- Back-end development using **SQL, Node, MongoDB and Play Framework**
-- Inclined web design with **Figma**
-- Development of hybrid applications using **React Native** (still learning)
-
-
-<p>
-    <a href="https://instagram.com/herlmanoel"> 
-        <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"> 
-    </a> 
-    <a href="https://www.linkedin.com/in/herlmanoel-fernandes-barbosa-3561771a7/"> 
-        <img height = "30" src = "https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true "> 
-    </a>
-</p>
-
-<div align="center">
-    <br /> 
-    <br />
-    <a href="https://github.com/herlmanoel"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herlmanoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlmanoel&layout=compact&langs_count=7&theme=dark"/>
-</div>
+#### ⚡ Experiência  
+Possuo experiência em análise, desenvolvimento e manutenção de sistemas utilizando tecnologias como Java, Spring Boot, React, Node, JSF, PrimeFaces, Oracle, microsserviços, Jenkins, Git e GitLab. Atualmente trabalhando na empresa LIAX TI, com experiência anterior na Leve Tecnologia como estagiário e bolsista de iniciação científica na Universidade Federal do Rio Grande do Norte.
 
